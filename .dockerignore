@@ -1,0 +1,10 @@
+/.bundle/
+/.git/
+/spec/
+/vendor/
+
+/.dockerignore
+/.gitignore
+/.ruby-version
+/Dockerfile
+/Guardfile
